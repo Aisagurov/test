@@ -1,0 +1,4 @@
+# Kinopoisk
+Test. The application consists of two screens: a list of films with a filter by genre and detailed information about the film. Screen orientation: vertical and horizontal. One RecyclerView is used to display a list of genres and a list of movies. When you click on a genre, it is highlighted in the list, and the corresponding filter is applied to the list of films. When you click on a movie, a screen with detailed information opens
+
+<img src="https://user-images.githubusercontent.com/86536988/170217994-e0ffd4b0-def2-462b-b4c9-3490714e6b21.png" width="200">  <img src="https://user-images.githubusercontent.com/86536988/170217596-52f33e1e-e089-44ab-9970-76b762c6eda9.png" width="200">  <img src="https://user-images.githubusercontent.com/86536988/170217599-3e1f47a0-d8de-4f15-a9a6-7efcfe756518.png" width="200">
