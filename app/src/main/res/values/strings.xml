@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kinopoisk</string>
+    <string name="title_general">Главная</string>
+    <string name="year_film">Год: %d</string>
+    <string name="rating_film">Рейтинг: %.3f</string>
+    <string name="image_film">Постер фильма</string>
+    <string name="list_error">Не удалось загрузить страницу. Пожалуйста, попробуйте ещё раз</string>
+</resources>
